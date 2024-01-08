@@ -218,3 +218,8 @@ textarea {
     border: 0;
     width: 60%;
 }
+
+.social-links a {
+    margin-right: 25px;
+
+}
